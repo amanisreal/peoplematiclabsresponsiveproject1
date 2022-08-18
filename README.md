@@ -1,4 +1,4 @@
-https://amanisreal.github.io/PeopleMaticLabsProject1/
+https://amanisreal.github.io/peoplematiclabsresponsiveproject1/
 
 # peoplematiclabsresponsiveproject1
 # peoplematiclabsresponsiveproject1
